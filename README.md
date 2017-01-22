@@ -6,8 +6,11 @@ New Testament (27 books) available.
 Read Bible, Download Android/Desktop Apps
 
 http://www.malayalambible.info/
+
 http://freebiblesindia.com/bible/mal/ (Coming soon)
+
 http://www.godsownlanguage.com
+
 
 Thanks
 =======
