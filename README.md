@@ -1,4 +1,6 @@
 # Malayalam_Bible
+![](https://github.com/FreeBiblesIndia/Malayalam_Bible/blob/master/launcher_icons/res/mipmap-xxxhdpi/Malayalam_launcher.png?raw=true)
+
 Malayalam Bible (CC by SA)
 
 New Testament (27 books) available.
