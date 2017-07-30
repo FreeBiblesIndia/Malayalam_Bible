@@ -9,7 +9,7 @@ Read Bible, Download Android/Desktop Apps
 
 http://www.malayalambible.info/
 
-http://freebiblesindia.com/bible/mal/ (Coming soon)
+http://freebiblesindia.com/bible/mal/
 
 http://www.godsownlanguage.com
 
