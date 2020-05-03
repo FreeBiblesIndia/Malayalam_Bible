@@ -1,6 +1,6 @@
 # Malayalam_Bible
 
-![icon](https://github.com/FreeBiblesIndia/Malayalam_Bible/blob/master/icons/icon.png?raw=true)
+![icon](https://github.com/FreeBiblesIndia/Malayalam_Bible/blob/master/icon/icon.png?raw=true)
 
 Malayalam Bible (CC by SA)
 
