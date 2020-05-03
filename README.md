@@ -1,5 +1,7 @@
 # Malayalam_Bible
 
+![icon](https://github.com/FreeBiblesIndia/Malayalam_Bible/blob/master/icons/icon.png?raw=true)
+
 Malayalam Bible (CC by SA)
 
 Full Bible (66 books) available now.
